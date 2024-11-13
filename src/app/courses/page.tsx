@@ -1,7 +1,5 @@
 import Image from "next/image"
 import OIP from '../../../public/OIP.jpg'
-import OIP1 from '../../../public/OIP1.jpg'
-// import OIP from '../../../public/OIP.jpg'
 
 export default function NavBar(){
   return (
