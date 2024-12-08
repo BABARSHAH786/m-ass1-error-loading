@@ -8,7 +8,7 @@ import indepent from '../../../public/inedepent.jpg';
 import cricket from '../../../public/cricket.jpg';
 import schoool from '../../../public/schoool.jpg';
 
-
+//new work
 
 
 export default function SchoolPic() {
